@@ -108,7 +108,6 @@
     <!-- Services Section -->
     <section id="services">
         <h2>Our Services</h2>
-        <p><em>Military, Fire, EMS, Police Personnel, and GW Students receive 10% off all packages!</em></p>
         <ul style="list-style: none; padding: 0;">
             <li><strong>Mini Sessions:</strong> 30 minutes, 5 edited images, 1 locations - $50</li>
             <li><strong>Lifestyle Portraits:</strong> 1 hour, 15 edited images - $75</li>
